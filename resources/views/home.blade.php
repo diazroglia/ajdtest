@@ -20,8 +20,5 @@
         </div>
     </div>
 </div>
-@endsection
 
-@section('contentajd')
-<h1>Prueba Contenido AJD</h1>
 @endsection
